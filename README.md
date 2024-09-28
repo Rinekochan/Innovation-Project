@@ -31,6 +31,7 @@ pip install seaborn
 pip install numpy
 pip install scikit-learn
 pip install lightgbm
+pip install openpyxl
 ```
 
 If you have errors with pip install on Windows, please check if system environment path contains the path to Python yet. 
